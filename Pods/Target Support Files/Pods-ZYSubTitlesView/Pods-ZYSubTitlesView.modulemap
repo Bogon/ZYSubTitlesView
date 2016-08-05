@@ -1,0 +1,6 @@
+framework module Pods_ZYSubTitlesView {
+  umbrella header "Pods-ZYSubTitlesView-umbrella.h"
+
+  export *
+  module * { export * }
+}
